@@ -3,4 +3,4 @@
 <h2>Phase 1 : Basics</h2>
 <h3>== C#</h3>
 <p>The main programming language to learn</p>
-<a href="https://www.youtube.com/playlist?list=PLX1bW_GeBRhCU9l7examhVrARmXHHRrLR"><h3>Codographia - First Recommendation</h3></a>
+<a href="https://www.youtube.com/playlist?list=PLX1bW_GeBRhCU9l7examhVrARmXHHRrLR">Codographia - First Recommendation</a>
