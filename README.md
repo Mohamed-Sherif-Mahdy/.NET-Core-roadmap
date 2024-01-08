@@ -1,6 +1,7 @@
 # .NET-Core-roadmap
 <h1>Backend .Net developer roadmap</h1>
     <p>Best free arabic resources for learning backend programming with .NET track</p>
+    <p>الكورسات المذكور اولا مرشح اولا ثم الذي يليه و هكذا لتختار ما يناسبك</p>
     <h2>phase 1 : Basics </h2>
     <h3>Database / Sqlserver</h3>
     <br>
