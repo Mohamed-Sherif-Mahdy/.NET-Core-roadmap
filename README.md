@@ -51,6 +51,7 @@ Welcome to the Backend .NET Developer Roadmap! This repository is a curated list
 - [DevCreed](https://www.youtube.com/playlist?list=PL62tSREI9C-cHV28v-EqWinveTTAos8Pp)
 
 ### ASP.NET Core MVC
+- [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6S-uLNUmrgCJiQXfXi5KjRJ)
 - [ITI Recordings - Eng/Christiene Zareef (Highly Recommended)](https://drive.google.com/drive/u/0/folders/1HZwQYm-ME578H8ANkv9w4167NDCRWecF?fbclid=IwAR1lCISZUSWI-3cMJC7Y22yCw0iMgn_0Ra2VuSVnLTCaBWV-13e-CFUbKNg)
 - [Ahmed Mohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTWqGYP-f1pHkbLYdbqi_Uhg)
 
