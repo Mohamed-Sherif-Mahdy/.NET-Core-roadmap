@@ -6,6 +6,7 @@ Welcome to the Backend .NET Developer Roadmap! This repository is a curated list
 
 ### Database / SQL Server
 - [ITI Recordings](https://www.youtube.com/playlist?list=PLYpJKvLDuJhgMzOXRwUJ2_ZlVt3zSh8PA)
+- [Eng Eldesoky](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE)
 - [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6RP_OovpgjoHLkCVaYFy-aj)
 
 ### C#
@@ -50,6 +51,7 @@ Welcome to the Backend .NET Developer Roadmap! This repository is a curated list
 - [DevCreed](https://www.youtube.com/playlist?list=PL62tSREI9C-cHV28v-EqWinveTTAos8Pp)
 
 ### ASP.NET Core MVC
+- [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6S-uLNUmrgCJiQXfXi5KjRJ)
 - [ITI Recordings - Eng/Christiene Zareef (Highly Recommended)](https://drive.google.com/drive/u/0/folders/1HZwQYm-ME578H8ANkv9w4167NDCRWecF?fbclid=IwAR1lCISZUSWI-3cMJC7Y22yCw0iMgn_0Ra2VuSVnLTCaBWV-13e-CFUbKNg)
 - [Ahmed Mohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTWqGYP-f1pHkbLYdbqi_Uhg)
 
